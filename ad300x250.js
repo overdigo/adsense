@@ -1,6 +1,5 @@
 var increaserev = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-if(increaserev>=728)
-    {
+if(increaserev>=728) {
 document.write('<div class="InMargin_Top" style="position:relative; text-align: center; margin: 5px 5px 5px 5px;">');
 google_ad_client = "ca-pub-5232270347895348";
 google_ad_slot = "1531085830";
