@@ -1,4 +1,3 @@
-<div id="google-ads-1"></div>
 <script type="text/javascript"> 
     /* Calculate the width of available ad space */
     ad = document.getElementById('google-ads-1');
